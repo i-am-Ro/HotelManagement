@@ -50,3 +50,12 @@ Edit
 1. Navigate to the folder containing `HotelManagement/`:
    ```bash
    cd path/to/Java
+
+Sample Output
+
+Guest Added : Rohit, Phone : +91 6294599756
+OTP Generate : 7381
+OTP Validation: true
+Room Added --> Type : STANDARD, Price : 1000.0
+Updated Room --> Type : SUITE, Price : 2000.0
+Reservation Created --> Guest : Rohit, Room : 101, From 2025-06-11 to 2025-06-15
