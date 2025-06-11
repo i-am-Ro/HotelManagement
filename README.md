@@ -6,6 +6,9 @@ A simple Java-based Hotel Management System designed using Object-Oriented Progr
 
 ## 📁 Project Structure
 
+
+
+
 HotelManagement/
 ├── Guest.java # Model class representing a guest
 ├── GuestManager.java # Manages guest registration, OTP generation & validation
